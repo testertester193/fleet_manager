@@ -1,0 +1,9 @@
+fastapi
+pandas
+numpy
+requests
+grafana-api
+gunicorn
+dash
+plotly
+dash_bootstrap_components
